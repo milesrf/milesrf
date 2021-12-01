@@ -1,6 +1,6 @@
 - 👋 Hi, I’m milesrf
 - 👀 I’m interested in CUDA versions of C++ projects related to medical research
-- 🌱 I’m currently learning how to us Meson
+- 🌱 I’m currently learning how to use Meson
 - 💞️ I’m looking to collaborate on the CmDock project
 - 📫 How to reach me - robertmilesxyz@gmail.com
 
